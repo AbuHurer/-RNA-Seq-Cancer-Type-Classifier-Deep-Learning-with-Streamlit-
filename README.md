@@ -124,20 +124,9 @@ Developed by Mohammed Abu Hurer
 Dataset: [PANCAN HiSeq RNA Expression](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)
 
 ---
-## Dataset
 
 ## 📜 License
 
 MIT License – feel free to use, modify, and share.
 
-```
-
 ---
-
-Let me know:
-- If you want a downloadable version.
-- Your GitHub username (for repo link).
-- A local screenshot to embed in `README.md`.
-
-Once you confirm, I’ll finalize it.
-```
